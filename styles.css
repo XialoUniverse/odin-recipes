@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+h1 {
+    background-color: burlywood;
+}
+
+h2 {
+    background-color: rgb(200, 177, 147);
+}
+
+ul, ol {
+    background-color: antiquewhite;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li {
+    margin: 10px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.home-link {
+    display: inline-block;
+    background-color: navajowhite;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 50px;
+}
